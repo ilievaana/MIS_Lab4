@@ -1,7 +1,4 @@
-# lab4_212023
-
-A new Flutter project.
-
+# lab4
 ## Getting Started
 
 This project is a starting point for a Flutter application.
